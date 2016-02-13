@@ -177,8 +177,6 @@ function MM_validateForm() { //v4.0
 		<input type="hidden" name="MM_insert" value="form2">
 		
   </form>
-
-
 </div>
 </body>
 </html>
